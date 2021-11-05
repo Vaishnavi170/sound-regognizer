@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(#00c2ff 0%,#9e00ff 100%);
+}
+.header_div{
+    font-family: 'Fleur De Leah', cursive;
+}
+.header_div p{
+    font-family: 'Cookie', cursive;
+    font-size: 20px;
+}
+.main_div button{
+    background-color: #ff006f;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #ff006f;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color:aqua;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Cookie', cursive;
+}
+#result_confidence,#result_label{
+    font-family: 'Fleur De Leah', cursive;
